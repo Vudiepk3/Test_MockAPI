@@ -1,0 +1,109 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Day & Night Live Wallpaper",
+      "cates": [
+        {
+          "id": 1,
+          "title": "Sea & Sun",
+          "thumbnail": "bird_thumbnail.jpg",
+          "wallpapers": [
+            {
+              "id": 1,
+              "title": "Name wallpaper",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            },
+            {
+              "id": 2,
+              "title": "Name wallpaper",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Landscape",
+          "thumbnail": "panda_thumbnail.jpg",
+          "wallpapers": [
+            {
+              "id": 3,
+              "title": "Cute Panda",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Video Live Wallpaper",
+      "cates": [
+        {
+          "id": 1,
+          "title": "Sea & Sun",
+          "thumbnail": "bird_thumbnail.jpg",
+          "wallpapers": [
+            {
+              "id": 1,
+              "title": "Name wallpaper",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            },
+            {
+              "id": 2,
+              "title": "Name wallpaper",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Landscape",
+          "thumbnail": "panda_thumbnail.jpg",
+          "wallpapers": [
+            {
+              "id": 3,
+              "title": "Cute Panda",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Photo Wallpaper",
+      "cates": [
+        {
+          "id": 1,
+          "title": "Sea & Sun",
+          "thumbnail": "bird_thumbnail.jpg",
+          "wallpapers": [
+            {
+              "id": 1,
+              "title": "Name wallpaper",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            },
+            {
+              "id": 2,
+              "title": "Name wallpaper",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Landscape",
+          "thumbnail": "panda_thumbnail.jpg",
+          "wallpapers": [
+            {
+              "id": 3,
+              "title": "Cute Panda",
+              "videoUrl": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
