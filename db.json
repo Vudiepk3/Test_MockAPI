@@ -3,11 +3,13 @@
     {
       "id": 1,
       "name": "Day & Night Live Wallpaper",
+      "image":"https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/hero/batman_hulk.jpg",
       "cates": [
         {
           "id": 1,
           "title": "Sea & Sun",
-          "thumbnail": "bird_thumbnail.jpg",
+          "videoUrl1": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4",
+          "videoUrl2": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/army/tank_helicopter.mp4",
           "wallpapers": [
             {
               "id": 1,
@@ -24,7 +26,8 @@
         {
           "id": 2,
           "title": "Landscape",
-          "thumbnail": "panda_thumbnail.jpg",
+          "videoUrl1": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4",
+          "videoUrl2": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/army/tank_helicopter.mp4",
           "wallpapers": [
             {
               "id": 3,
@@ -38,11 +41,13 @@
     {
       "id": 2,
       "name": "Video Live Wallpaper",
+      "image":"https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/hero/batman_hulk.jpg",
       "cates": [
         {
           "id": 1,
           "title": "Sea & Sun",
-          "thumbnail": "bird_thumbnail.jpg",
+          "videoUrl1": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4",
+          "videoUrl2": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/army/tank_helicopter.mp4",
           "wallpapers": [
             {
               "id": 1,
@@ -59,7 +64,8 @@
         {
           "id": 2,
           "title": "Landscape",
-          "thumbnail": "panda_thumbnail.jpg",
+          "videoUrl1": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4",
+          "videoUrl2": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/army/tank_helicopter.mp4",
           "wallpapers": [
             {
               "id": 3,
@@ -73,11 +79,13 @@
     {
       "id": 3,
       "name": "Photo Wallpaper",
+      "image":"https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/hero/batman_hulk.jpg",
       "cates": [
         {
           "id": 1,
           "title": "Sea & Sun",
-          "thumbnail": "bird_thumbnail.jpg",
+          "videoUrl1": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4",
+          "videoUrl2": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/army/tank_helicopter.mp4",
           "wallpapers": [
             {
               "id": 1,
@@ -94,7 +102,8 @@
         {
           "id": 2,
           "title": "Landscape",
-          "thumbnail": "panda_thumbnail.jpg",
+          "videoUrl1": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/animal/eagle_panda.mp4",
+          "videoUrl2": "https://pub-222854e084244e809e3a9550e9d8b9c1.r2.dev/ai_fusion_images/army/tank_helicopter.mp4",
           "wallpapers": [
             {
               "id": 3,
@@ -107,3 +116,4 @@
     }
   ]
 }
+
